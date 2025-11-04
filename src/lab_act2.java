@@ -52,5 +52,6 @@ public class lab_act2 {
 		} else {
 			System.out.println("Output : Rejected");
 		}
+		scanner.close();
 	}
 }
